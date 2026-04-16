@@ -4,7 +4,7 @@
 
 > Uma página de links responsiva inspirada em Linktree, desenvolvida para praticar HTML e CSS.
 
-### ✨ [Veja o site ao vivo aqui!](https://anaflgg.github.io/social-links-page/)
+### ✨ [Veja o site ao vivo aqui!](https://anaflgg.github.io/social-links-landing-page/)
 
 ---
 
