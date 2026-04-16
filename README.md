@@ -48,4 +48,4 @@ Este é um projeto estático, não precisa instalar nada.
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/anaflgg/social-links-page.git
+git clone https://github.com/anaflgg/social-links-landing-page.git
